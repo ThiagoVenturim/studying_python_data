@@ -1,3 +1,4 @@
+CREATE DATABASE sampledb; 
 USE sampledb;
 
 CREATE TABLE emps(
