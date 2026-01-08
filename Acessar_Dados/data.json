@@ -1,4 +1,4 @@
-data = [
+[
     {
         "Emp":"Jeff Russell",
         "POs":[
@@ -14,4 +14,4 @@ data = [
             {"Pono":2626,"Total": 218}
         ]
     }
-    ]
+]
