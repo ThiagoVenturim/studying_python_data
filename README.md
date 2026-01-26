@@ -1,3 +1,3 @@
 # Studying Python Data
 
-Repositorio destinado ao estudo de python para dados 
+Repositorio destinado ao estudo de python para dados bibliotecas para matplot e etc
